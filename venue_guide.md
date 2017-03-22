@@ -1,9 +1,9 @@
-Below are the basic needs to host a Nevada County Free Code Camp Meetup event. We estimate about 15-20 people in attendance.
+Below are the basic venue needs to host a Nevada County Free Code Camp Meetup event. We estimate about 15-20 people in attendance.
 
 - Space with tables and chairs for everyone to have room to code
 - Decently fast Wifi that can take a bit of a beating
 - Outlets for power adapters
-- Availability from about 5:15-8:15 pm
+- Availability from about 5:15-8:15 pm ( We  will announce the end of the event at 7:25pm and try to have everyone out by 8pm at the very latest )
 - Wheelchair accessibility
 
 Nice to haves:
