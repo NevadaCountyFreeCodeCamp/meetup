@@ -1,5 +1,7 @@
 # Nevada County Free Code Camp
 
+[![Join the chat at https://gitter.im/NCFREECODECAMP/Lobby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/NCFREECODECAMP/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The Nevada County Free Code Camp Meetup is a casual gathering for anyone who wants to learn how to code, get help on http://www.freecodecamp.com/ lessons, or work on open source and other passion projects. Meet other local developers and IT professionals and expand your network. This event is for anyone who already codes or is curious about getting started coding! Each week we will try to feature “Lightning Talks”, short talks by local developers and IT professionals on current coding tips and practices.
 
 Read more about Free Code Camp here: https://www.freecodecamp.com/about/
