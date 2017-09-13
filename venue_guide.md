@@ -6,7 +6,7 @@ Below are the basic venue needs to host a Nevada County Free Code Camp Meetup ev
 - Availability from about 5:15-8:15 pm ( We  will announce the end of the event at 7:25pm and try to have everyone out by 8pm at the very latest )
 - Wheelchair accessibility
 
-Nice to haves:
+Nice to haves (not required!):
 
 - AV equipment, such as a projector or large TV
 - Beverages (in addition to water) and/or light snacks. Charging a reasonable fee for these extras is ok.
