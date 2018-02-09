@@ -1,4 +1,6 @@
-# Venues that have hosted Nevada County Free Code Camp meetups
+# Venues 
+
+The following are local business and organizations that have hosted Nevada County Free Code Camp meetups. Without their support, Nevada County Free Code Camp would not be possible:
 
 ## Connected Communities Academy
 
@@ -40,3 +42,19 @@ Website: https://www.grassvalley.com/about
 Phone: 530.265.1000
 Address: 125 Crown Point Court, Grass Valley, CA
 ```
+
+## AJA Video Systems
+
+Website: https://www.aja.com/
+
+## High Sierra Electronics Inc.
+
+Website: https://www.hsierra.com/
+
+## Telestream
+
+Website: http://www.telestream.net/
+
+## Sierra Data Systems
+
+Website: http://www.sierradata.com/
