@@ -21,3 +21,4 @@ Read more about Free Code Camp here: https://www.freecodecamp.com/about/
 ## Other ways to connect
 - Meetup.com https://www.meetup.com/Nevada-County-Free-Code-Camp 
 - Facebook Group https://www.facebook.com/groups/free.code.camp.nevada.county
+- Gitter Chat https://gitter.im/NCFREECODECAMP/Lobby
