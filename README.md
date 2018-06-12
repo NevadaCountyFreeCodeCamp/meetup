@@ -11,11 +11,9 @@ Read more about Free Code Camp here: https://www.freecodecamp.com/about/
 # Meetup schedule:
 
 5:30 - Doors Open
-
+5:45 - Welcome, intros
 6:00 - Lightning Talk
-
-6:15 - Open coding!
-
+6:15 - Open coding! Pair programming and collaboration encouraged!
 7:30 - Wrap up, thanks, contact info sharing etc.
 
 ## Other ways to connect
